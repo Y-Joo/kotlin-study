@@ -1,0 +1,6 @@
+2023-11-08 18:56:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-214]
+2023-11-08 18:56:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-214]
